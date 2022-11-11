@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+/* .card-body{
+  width: 300px;
+  position: relative;
+  left: 600px;
+} */
+svg:hover{
+  cursor: pointer;
+
+}
+li{
+  list-style: none;
+}

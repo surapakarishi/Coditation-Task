@@ -1,0 +1,142 @@
+{
+  "Categories": [
+    {
+      "id": 1,
+      "Category": "Electronics",
+      "SubCategory": "Gadgets",
+      "product": "Mobiles",
+      "product2": "Laptops",
+      "Type": [
+        {
+          "id": 1.1,
+          "SubType": "Mobile",
+          "Product": [
+            {
+              "p1": "iphone 14 pro"
+            },
+            {
+              "p2": "Poco F1"
+            },
+            {
+              "p3": "One plus Nord"
+            }
+          ]
+        },
+        {
+          "id": 1.2,
+          "SubType": "Laptop",
+          "Product": [
+            {
+              "p1": "Lenovo Ideapad"
+            },
+            {
+              "p2": "Dell Vostro"
+            },
+            {
+              "p3": "MacBook Air"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "Category": "Vehicle",
+      "SubCategory": "Car",
+      "product": "sedan",
+      "product2": "SUV",
+      "Type": [
+        {
+          "id": 2.1,
+          "SubType": "Hatchback",
+          "Product": [
+            {
+              "p1": "Tata-Altroz"
+            },
+            {
+              "p2": "Hyundai-i10"
+            }
+          ]
+        },
+        {
+          "id": 2.2,
+          "SubType": "SUV",
+          "Product": [
+            {
+              "p1": "Toyota-Fortuner"
+            },
+            {
+              "p2": "Mahindra_Scorpio"
+            }
+          ]
+        },
+        {
+          "id": 2.3,
+          "SubType": "Sedan",
+          "Product": [
+            {
+              "p1": "Honda-City"
+            },
+            {
+              "p2": "Hyundai-Verna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "Category": "Clothing",
+      "SubCategory": "Men's Fashion",
+      "product": "Pants",
+      "product2": "Pants",
+      "Type": [
+        {
+          "id": 3.1,
+          "SubType": "Shirts",
+          "Product": [
+            {
+              "p1": "Casual"
+            },
+            {
+              "p2": "Formal"
+            }
+          ]
+        },
+        {
+          "id": 3.2,
+          "SubType": "Traditional",
+          "Product": [
+            {
+              "p1": "Kurta"
+            },
+            {
+              "p2": "Sherwani"
+            }
+          ]
+        },
+        {
+          "id": 3.3,
+          "SubType": "Pants",
+          "Product": [
+            {
+              "p1": "Chinos"
+            },
+            {
+              "p2": "Jeans"
+            },
+            {
+              "p2": "Trouser"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Category": "Watches",
+      "SubCategory": "Digital",
+      "product": "Rolex",
+      "id": 4
+    }
+  ]
+}
