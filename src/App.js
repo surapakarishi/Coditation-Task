@@ -2,7 +2,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Home from './Home';
 import Create from './Create';
 import Update from './Update';
-import Details from './Details';
+
 // import SubCat from './subCat';
 
 import './App.css';
@@ -16,7 +16,7 @@ function App() {
         <Route path='/' element={<Home/>}/>
         <Route path='/Create' element={<Create/>}/>
         <Route path='/Update/:id' element={<Update/>}/>
-        <Route path='/Details/:id' element={<Details/>}/>
+        
         {/* <Route path='/subCat/:id' element={<SubCat/>}/> */}
       </Routes>
       </BrowserRouter>

@@ -43,7 +43,7 @@ const Create = () => {
                   <div className="col-lg-12 mt-3">
                     <div className="form-group">
                       <label>Id</label>
-                      <input
+                      <input required
                         value={id}
                         disabled="disabled"
                         className="form-control"
@@ -53,7 +53,7 @@ const Create = () => {
                   <div className="col-lg-12 mt-3">
                     <div className="form-group">
                       <label>Category</label>
-                      <input
+                      <input required
                         value={Category}
                         onChange={(e) => setCategory(e.target.value)}
                         className="form-control"
@@ -63,7 +63,7 @@ const Create = () => {
                   <div className="col-lg-12 mt-3">
                     <div className="form-group">
                       <label>Sub-Category</label>
-                      <input
+                      <input required
                         value={SubCategory}
                         onChange={(e) => setSubCategory(e.target.value)}
                         className="form-control"
@@ -73,7 +73,7 @@ const Create = () => {
                   <div className="col-lg-12 mt-3">
                     <div className="form-group">
                       <label>Product</label>
-                      <input
+                      <input  required
                         value={product}
                         onChange={(e) => setProduct(e.target.value)}
                         className="form-control"
