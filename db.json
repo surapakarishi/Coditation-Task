@@ -5,7 +5,6 @@
       "Category": "Electronics",
       "SubCategory": "Gadgets",
       "product": "Mobiles",
-      "product2": "Laptops",
       "Type": [
         {
           "id": 1.1,
@@ -44,7 +43,7 @@
       "Category": "Vehicle",
       "SubCategory": "Car",
       "product": "sedan",
-      "product2": "SUV",
+      
       "Type": [
         {
           "id": 2.1,
@@ -89,7 +88,7 @@
       "Category": "Clothing",
       "SubCategory": "Men's Fashion",
       "product": "Pants",
-      "product2": "Pants",
+      
       "Type": [
         {
           "id": 3.1,
